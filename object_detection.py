@@ -62,4 +62,3 @@ while True:
     if key == 27:
         break
 cap.release()
-cap.destroyAllWindows()
